@@ -1,0 +1,2 @@
+# wyklady
+Prezentacje do wykładów.

@@ -2,4 +2,5 @@
 
 Prezentacje do wykładów:
 
-* [Architektura oprogramowania](Architektura_Oprogramowania.pptx) 
+* [Architektura oprogramowania](Architektura_Oprogramowania.pptx)
+* [Testowanie](Testing.pptx) 
